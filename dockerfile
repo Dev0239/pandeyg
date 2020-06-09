@@ -1,3 +1,3 @@
-FROM   dev0239/pandeyg
+FROM   deepakkumarrts/jenkin
 ADD  .  /var/www/html
 
